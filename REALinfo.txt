@@ -1,0 +1,5 @@
+1; Gimme Shelter - The Rolling Stones = Rhys; Viva La Vida - Coldplay = Brian;  King of Anything - Sara Bareilles = Sohie; Warriors - Imagine Dragons = Jean
+2; Dancing with the Stars = Rhys; House of Cards = Brian;  Modern Family = Sohie; Game of Thrones = Jean
+3; Wilko Mints = Rhys; Peanut Butter Cups = Brian;  Dark Chocolate = Sohie ; 3.14159 = Jean
+4; Boating along the gorgeous Charles River = Rhys; Kicking around a soccer ball! = Brian;  Happily knitting away! = Sohie; Spinning 4 lyfe! = Jean
+5; “You make my heart beat in iambic pentameter!” = Rhys; “Hey girl, I want our prom night to be like poor recursion, so that it never terminates.” = Brian; “If you were a veggie, you’d be a cute-cumber!” = Sohie; “Are you made of dragon glass?  ‘Cause you’re melting my heart!” = Jean
